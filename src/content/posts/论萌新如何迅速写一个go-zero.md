@@ -1,6 +1,6 @@
 ---
 title: 论萌新如何迅速写一个go-zero
-published: 2023-09-09
+published: 2025-02-03
 description: 萌新如何迅速入门go-zero
 image: ./cover.jpg
 tags: [新手, go]
@@ -258,6 +258,7 @@ Starting server at 0.0.0.0:8888...
 改生成文件再重复 goctl 覆盖（具体查看覆盖规则）
 api 路由和 yaml 端口对不上
 忘了 `go mod tidy`
+
 
 
 

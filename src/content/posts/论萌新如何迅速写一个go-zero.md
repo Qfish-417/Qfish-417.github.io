@@ -1,3 +1,14 @@
+---
+title: 论萌新如何迅速写一个go-zero
+published: 2023-09-09
+description: 萌新如何迅速入门go-zero
+image: ./cover.jpg
+tags: [新手, go]
+category: 后端
+draft: false
+pinned: false
+lang: zh-CN      # 仅当文章语言与 config.ts 中的站点语言不同时设置
+---
 *<!--作者也是一个小萌新，这只是一个学习的过程，如果觉得有问题欢迎私信纠正-->*
 
 ------
@@ -247,4 +258,5 @@ Starting server at 0.0.0.0:8888...
 改生成文件再重复 goctl 覆盖（具体查看覆盖规则）
 api 路由和 yaml 端口对不上
 忘了 `go mod tidy`
+
 
